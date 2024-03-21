@@ -1,4 +1,4 @@
-# A powershell script for Windows computer, which automatically extract save SSID with password and save into .txt file
+# A powershell script for Windows computer, which automatically extract save SSID with password and save into (.txt) file
 
 * Use it at your own risk, Educational purpose only.
 
